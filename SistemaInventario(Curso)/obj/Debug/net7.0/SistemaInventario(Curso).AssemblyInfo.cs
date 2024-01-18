@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SistemaInventario(Curso)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd5901fd2ed7413021fe5d713ca616b12213adb6")]
 [assembly: System.Reflection.AssemblyProductAttribute("SistemaInventario(Curso)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SistemaInventario(Curso)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
