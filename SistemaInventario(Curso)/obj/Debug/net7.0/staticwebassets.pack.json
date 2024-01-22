@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\js\\bodega.js"
     },
     {
+      "Id": "C:\\Users\\Johan Vasquez\\Proyectos Curso .Net\\SistemaInventario(Curso)\\SistemaInventario(Curso)\\wwwroot\\js\\categoria.js",
+      "PackagePath": "staticwebassets\\js\\categoria.js"
+    },
+    {
       "Id": "C:\\Users\\Johan Vasquez\\Proyectos Curso .Net\\SistemaInventario(Curso)\\SistemaInventario(Curso)\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

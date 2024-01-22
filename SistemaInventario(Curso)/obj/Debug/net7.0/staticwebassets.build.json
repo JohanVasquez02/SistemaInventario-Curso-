@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OHp3F+VWcFjxRE4VWgZx8vZRf5yduRfe7Mmhec//9S4=",
+  "Hash": "QC3g8UnJlPxHsIaWY73qHhuR0roTqe6urkyx02HpoXo=",
   "Source": "SistemaInventario(Curso)",
   "BasePath": "_content/SistemaInventario(Curso)",
   "Mode": "Default",
@@ -1250,6 +1250,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\bodega.js"
+    },
+    {
+      "Identity": "C:\\Users\\Johan Vasquez\\Proyectos Curso .Net\\SistemaInventario(Curso)\\SistemaInventario(Curso)\\wwwroot\\js\\categoria.js",
+      "SourceId": "SistemaInventario(Curso)",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Johan Vasquez\\Proyectos Curso .Net\\SistemaInventario(Curso)\\SistemaInventario(Curso)\\wwwroot\\",
+      "BasePath": "_content/SistemaInventario(Curso)",
+      "RelativePath": "js/categoria.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\categoria.js"
     },
     {
       "Identity": "C:\\Users\\Johan Vasquez\\Proyectos Curso .Net\\SistemaInventario(Curso)\\SistemaInventario(Curso)\\wwwroot\\js\\site.js",
