@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QC3g8UnJlPxHsIaWY73qHhuR0roTqe6urkyx02HpoXo=",
+  "Hash": "cFljlrzgClIoUXH3+VzTDOlgH0EHA7NYjGp+2oIwRJY=",
   "Source": "SistemaInventario(Curso)",
   "BasePath": "_content/SistemaInventario(Curso)",
   "Mode": "Default",
@@ -1269,6 +1269,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\categoria.js"
+    },
+    {
+      "Identity": "C:\\Users\\Johan Vasquez\\Proyectos Curso .Net\\SistemaInventario(Curso)\\SistemaInventario(Curso)\\wwwroot\\js\\marca.js",
+      "SourceId": "SistemaInventario(Curso)",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Johan Vasquez\\Proyectos Curso .Net\\SistemaInventario(Curso)\\SistemaInventario(Curso)\\wwwroot\\",
+      "BasePath": "_content/SistemaInventario(Curso)",
+      "RelativePath": "js/marca.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\marca.js"
     },
     {
       "Identity": "C:\\Users\\Johan Vasquez\\Proyectos Curso .Net\\SistemaInventario(Curso)\\SistemaInventario(Curso)\\wwwroot\\js\\site.js",
