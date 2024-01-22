@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Johan Vasquez\\Proyectos Curso .Net\\SistemaInventario(Curso)\\SistemaInventario(Curso)\\wwwroot\\js\\bodega.js",
+      "PackagePath": "staticwebassets\\js\\bodega.js"
+    },
+    {
       "Id": "C:\\Users\\Johan Vasquez\\Proyectos Curso .Net\\SistemaInventario(Curso)\\SistemaInventario(Curso)\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

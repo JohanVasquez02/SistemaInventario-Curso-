@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yxp3DGI0tSo5oh0/KYwjjb7FQ38y7DTgctLP94V8CUM=",
+  "Hash": "OHp3F+VWcFjxRE4VWgZx8vZRf5yduRfe7Mmhec//9S4=",
   "Source": "SistemaInventario(Curso)",
   "BasePath": "_content/SistemaInventario(Curso)",
   "Mode": "Default",
@@ -1231,6 +1231,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Johan Vasquez\\Proyectos Curso .Net\\SistemaInventario(Curso)\\SistemaInventario(Curso)\\wwwroot\\js\\bodega.js",
+      "SourceId": "SistemaInventario(Curso)",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Johan Vasquez\\Proyectos Curso .Net\\SistemaInventario(Curso)\\SistemaInventario(Curso)\\wwwroot\\",
+      "BasePath": "_content/SistemaInventario(Curso)",
+      "RelativePath": "js/bodega.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\bodega.js"
     },
     {
       "Identity": "C:\\Users\\Johan Vasquez\\Proyectos Curso .Net\\SistemaInventario(Curso)\\SistemaInventario(Curso)\\wwwroot\\js\\site.js",
